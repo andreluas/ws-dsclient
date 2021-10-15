@@ -3,8 +3,6 @@
 </p>
 
 <br />
-<br />
-<br />
 
 # DESAFIO CRUD ✨
 ## Enunciado do trabalho
